@@ -2,8 +2,8 @@ Code for paper
 # Policy Consistency and Modelling Improvement Method: Evidence from China’s Housing Presale Supervision Policy
 Author: Ym Liu
 ## Highlights:
-	Improved Policy Modeling Consistency (PMC) index calculated
-	Empirical reveals regional disparities in presale supervision policy implementation
+<br> 	Improved Policy Modeling Consistency (PMC) index calculated
+<br> 	Empirical reveals regional disparities in presale supervision policy implementation
 	Machine learning algorithms: neural networks, topic modeling.
 	Mixed methods: qualitative and quantitative data from 41 cities’ presale supervision
 	Insights for effective housing regulations, contribution to policy evaluation field
